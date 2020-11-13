@@ -1,0 +1,7 @@
+config/*
+node_modules/*
+public/*
+coverage/*
+test-reports/*
+source/locale-default/**/*
+source/icons/**/*
